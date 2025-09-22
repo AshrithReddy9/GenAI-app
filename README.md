@@ -1,4 +1,4 @@
-# End-to-End GenAI RAG App
+# GenAI RAG App
 
 This project implements an end-to-end **Retrieval-Augmented Generation (RAG)** application using **Langchain** and **Llama2**. The app retrieves relevant information from a document store and generates intelligent responses by augmenting the retrieved data with Llama2’s generative AI capabilities.
 
